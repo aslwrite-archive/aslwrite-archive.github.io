@@ -1,0 +1,54 @@
+.yarpp_pro_msg{
+    border: 1px ridge #D0D0D0;
+    padding: 0.4em 2em 0.8em;
+    text-align: justify;
+}
+.yarpp_pro_msg strong{
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    color: orange;
+}
+.yarpp_help {
+    position: relative;
+    display: inline-block;
+    background: transparent url('/web/20190212040524im_/http://www.aslwrite.com/web/wp-includes/images/wpicons.png') no-repeat -520px -20px;
+    vertical-align: text-bottom;
+    width: 20px;
+    height: 20px;
+}
+.yarpp_help_msg {
+    position: absolute;
+    left: 25px;
+    display: none;
+    border: 1px solid #D0D0D0;
+    width: 250px;
+    text-align: justify;
+    padding: 10px 15px;
+    background-color: #FFF;
+    box-shadow: 0 0 0.4em -0.15em #333;
+    z-index: 100;
+}
+.yarpp_help:hover .yarpp_help_msg{
+    display: block
+}
+/*
+     FILE ARCHIVED ON 04:05:24 Feb 12, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:46:52 Sep 30, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.7
+  exclusion.robots: 0.033
+  exclusion.robots.policy: 0.019
+  esindex: 0.013
+  cdx.remote: 7.262
+  LoadShardBlock: 121.136 (3)
+  PetaboxLoader3.datanode: 105.04 (4)
+  PetaboxLoader3.resolve: 90.845 (2)
+  load_resource: 177.579
+*/
